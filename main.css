@@ -1,0 +1,25 @@
+#header {
+   width: 100vw;
+}
+
+#youtube {
+    float: left;
+    width: 40vw;
+    margin-left: 5vw;
+    margin-top: 3vw;
+}
+
+#devpost {
+    float: right;
+    position: relative;
+    width: 40vw;
+    margin-top: 3vw;
+    margin-right: 5vw;
+}
+
+#music {
+    float: left;
+    width: 40vw;
+    margin-left: 5vw;
+    margin-top: 8vw;
+}
